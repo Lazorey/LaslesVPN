@@ -1,0 +1,7 @@
+{
+    "editor.hover.enabled": false,
+    "editor.insertSpaces": false,
+	"editor.detectIndentation": false,
+	"editor.mouseWheelZoom": true,
+	"editor.formatOnSave": true
+}
